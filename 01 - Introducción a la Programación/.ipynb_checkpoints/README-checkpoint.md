@@ -8,7 +8,7 @@ En la imagen, se representa un pequeño robot abeja en una esquina del cuadrilá
 
 Ahora bien, surgen algunas preguntas:
 
-* ¿Cuántas instrucciones son necesarias?
+* ¿Cuántas instrucciones son necesarias r?
 
 * Al ser más de una instrucción ¿Es importante el orden en que se ejecutan?
 
